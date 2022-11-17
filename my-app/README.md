@@ -25,6 +25,8 @@ npm run dev
 npm run dev -- --open
 ```
 
+Available at <http://127.0.0.1:5173/>
+
 ## Building
 
 To create a production version of your app:
